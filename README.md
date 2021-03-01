@@ -15,3 +15,17 @@
 安装tensorflow-CPU  
 
 pip install -U tensorflow -i https://pypi.tuna.tsinghua.edu.cn/simple  
+
+
+## 在jupyter中添加新的环境  
+1.conda创建虚拟环境  
+> conda -n tf2 python=版本号  
+> conda activate tf2  
+> conda install nb_conda  
+> conda install ipykernel  
+> python -m ipykernel install --user --name tf2 --display-name "tf2"  
+
+## 查看 Jupyter notebook kernel  
+jupyter kernelspec list  
+## 删除 jupyter 内核  
+jupyter kernelspec remove kernelname  
