@@ -1,4 +1,4 @@
-# TensorFlow  
+# Notes
 
 - 源地址：  
 
@@ -10,15 +10,14 @@
 > 中国科学院 http://pypi.mirrors.opencas.cn/simple/  
 > 清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/  
 
+- 安装tensorflow-CPU  
 
-
-安装tensorflow-CPU  
-
-pip install -U tensorflow -i https://pypi.tuna.tsinghua.edu.cn/simple  
+> pip install -U tensorflow -i https://pypi.tuna.tsinghua.edu.cn/simple  
 
 
 ## 在jupyter中添加新的环境  
 1.conda创建虚拟环境  
+
 > conda -n tf2 python=版本号  
 > conda activate tf2  
 > conda install nb_conda  
