@@ -1,7 +1,10 @@
 # 机器学习 (CS 229 Stanford)
-可得到 [العربية](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/ar) -  [English](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en) -  [Español](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/es) -  [فارسی](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fa) -  [Français](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/fr) -  [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) -  [Português](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/pt) -  [Türkçe](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/tr) - [Tiếng Việt](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/vi) -  **简中** -  [繁中](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/zh-tw)
-
 ## 内容
+
+### 对应内容[网站](https://stanford.edu/~shervine/teaching/cs-229/)
+
+课程： [Ng, Andrew](https://see.stanford.edu/Course/CS229), [Spring 2021](http://cs229.stanford.edu/)
+
 #### VIP Cheatsheets
 |<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/zh/cheatsheet-supervised-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/zh-001.png?" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/zh/cheatsheet-unsupervised-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/zh-002.png" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/zh/cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/zh-003.png" alt="Illustration" width="220px"/></a>|<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/zh/cheatsheet-machine-learning-tips-and-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-229/illustrations/cover/zh-004.png" alt="Illustration" width="220px"/></a>|
 |:--:|:--:|:--:|:--:|
