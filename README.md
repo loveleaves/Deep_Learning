@@ -41,3 +41,5 @@
 ## DL相关
 
 [数据预处理方法](./data_preproccess.md)
+
+[Python笔记](./python.md)
