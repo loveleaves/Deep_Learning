@@ -14,6 +14,11 @@
 
 ## 环境配置
 
+**安装GPU版本(conda虚拟环境下)**
+注意cudatoolkit和cudnn版本对应
+conda search cudatoolkit 和conda search cudnn查询可使用版本
+conda install cudatoolkit==10.0 cudnn==7.6.5（tf1.14可用）
+
 **如安装TF框架 tensorflow-CPU**  
 
 > pip install -U tensorflow -i https://pypi.tuna.tsinghua.edu.cn/simple  
@@ -26,7 +31,11 @@
 > conda activate tf2  
 > conda install nb_conda  
 > conda install ipykernel  
-> python -m ipykernel install --user --name tf2 --display-name "tf2"  
+> python -m ipykernel install --user --name tf2 --display-name "tf2"
+> conda remove -n tf2 --all
+> conda env export > enviroment.yaml
+> conda create -f enviroment.yaml
+
 
 **查看 Jupyter notebook kernel  **
 
