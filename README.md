@@ -14,6 +14,12 @@
 
 ## 环境配置
 
+### Cuda安装注意事项
+
+使用官网所给命令安装cuda时，注意加参数“no-opengl-libs”，如
+sudo bash cuda_10.1.105_418.39_linux --no-opengl-libs
+否则在登录界面输入密码后，会再跳回让你输入登录密码。
+
 **安装GPU版本(conda虚拟环境下)**
 注意cudatoolkit和cudnn版本对应
 conda search cudatoolkit 和conda search cudnn查询可使用版本
